@@ -1,6 +1,6 @@
 # ObjectDetectionApp using autonomous vehicles
 
-This project was inspired by the tensorflow lite recognize flower project:
+This project was inspired by the tensorflow lite project:
 
 * [TensorFlow Lite Object Detection Android Demo](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android)
 
